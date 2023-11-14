@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+header .container {
+  display: flex;
+}
+ul {
+  list-style: none;
+  display: flex;
+  gap: 48px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+li a {
+  text-decoration: none;
+  font-size: 32px;
+  color: black;
+}
+
+main .container {
+  background-color: azure;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
